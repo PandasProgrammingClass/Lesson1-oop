@@ -6,8 +6,7 @@ var rl = readline.createInterface({
 });
 
 //create an array, or list it's blank now
-var soldier1,
-    soldier2;
+var soldier1;
 
 //the main game loop
 function whatToDo()
